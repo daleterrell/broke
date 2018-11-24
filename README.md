@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-./bHi! 👋
+
 
 You've opened the IDE Sandbox. 🎉
 
@@ -11,16 +9,13 @@ The work you do in the Sandbox will be saved from lesson to lesson, and is autom
 Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
 
 To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
-=======
-=======
->>>>>>> 3e72e18171ac50193e94488885b8bdfcccb989fc
-# Practical
+
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/practical`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
-## Installation
+
 
 Add this line to your application's Gemfile:
 
@@ -57,7 +52,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the Practical project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/'daleterrell'/practical/blob/master/CODE_OF_CONDUCT.md).
-<<<<<<< HEAD
->>>>>>> 3e72e18171ac50193e94488885b8bdfcccb989fc
-=======
->>>>>>> 3e72e18171ac50193e94488885b8bdfcccb989fc
+
